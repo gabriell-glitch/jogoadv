@@ -1,4 +1,4 @@
-let random = Math.floor(Math.random() * 101);
+let random = Math.floor(Math.random() * 201);
 let userEntrada;
 let tenta = 1;
 const chances = 3;
